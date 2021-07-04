@@ -68,6 +68,15 @@ li{
     padding: 10px;
 }
 
+
+
+/* Project Section */
+
+.project-section{
+    padding:30px;
+}
+
+
 @media only screen and (max-width:750px){
     .welcome-text{
         margin-left: 20px;
